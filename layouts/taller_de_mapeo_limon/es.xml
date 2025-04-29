@@ -7,12 +7,12 @@
       <button type="textnote" icon="text_32x32"/>
      </row>
     <row>
-        <button type="tag" label="Basurero" icon="taller_de_mapeo_limon_icons/icon_1.png" tag="amenity=waste_basket"/>
+        <button type="tag" label="Basurero" icon="taller_de_mapeo_limon_icons/icon_6.png" tag="amenity=waste_basket"/>
         <button type="tag" label="Arbol" icon="taller_de_mapeo_limon_icons/icon_1.png" tag="natural=tree" />
         <button type="tag" label="Banco" icon="taller_de_mapeo_limon_icons/icon_2.png" tag="amenity=bench" />
     </row>
     <row>
-        <button type="tag" label="Banca con mesa" icon="taller_de_mapeo_limon_icons/icon_1.png" tag="amenity=bench,table=yes" />
+        <button type="tag" label="Banca con mesa" icon="taller_de_mapeo_limon_icons/icon_7.png" tag="amenity=bench,table=yes" />
         <button type="tag" label="Parada de buses" icon="taller_de_mapeo_limon_icons/icon_3.png" tag="highway=bus_stop" />
     </row>
     <row>
