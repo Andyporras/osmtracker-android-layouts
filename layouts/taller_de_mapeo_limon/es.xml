@@ -5,15 +5,19 @@
       <button type="voicerec" icon="voice_32x32"/>
       <button type="picture" icon="camera_32x32"/>
       <button type="textnote" icon="text_32x32"/>
-     </row>
+     </row>
     <row>
-        <button type="tag" label="Arbol" icon="taller_de_mapeo_limon_icons/icon_1.png" />
-        <button type="tag" label="Banco" icon="taller_de_mapeo_limon_icons/icon_2.png" />
-        <button type="tag" label="Parada de buses" icon="taller_de_mapeo_limon_icons/icon_3.png" />
+        <button type="tag" label="Basurero" icon="taller_de_mapeo_limon_icons/icon_basurero.png" tag="amenity=waste_basket"/>
+        <button type="tag" label="Arbol" icon="taller_de_mapeo_limon_icons/icon_arbol.png" tag="natural=tree" />
+        <button type="tag" label="Banco" icon="taller_de_mapeo_limon_icons/icon_banco.png" tag="amenity=bench" />
     </row>
     <row>
-        <button type="tag" label="Zona recreativa" icon="taller_de_mapeo_limon_icons/icon_4.png" />
-        <button type="tag" label="Cancha " icon="taller_de_mapeo_limon_icons/icon_5.png" />
+        <button type="tag" label="Banca con mesa" icon="taller_de_mapeo_limon_icons/icon_banco_mesa.png" tag="amenity=bench,table=yes" />
+        <button type="tag" label="Parada de buses" icon="taller_de_mapeo_limon_icons/icon_parada_bus.png" tag="highway=bus_stop" />
+    </row>
+    <row>
+        <button type="tag" label="Zona recreativa" icon="taller_de_mapeo_limon_icons/icon_zona_recreativa.png" tag="leisure=recreation_ground" />
+        <button type="tag" label="Cancha multiusos" icon="taller_de_mapeo_limon_icons/icon_cancha.png" tag="sport=multi,soccer=yes,basketball=yes,volleyball=yes" />
     </row>
   </layout>
 </layouts>
