@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+  <layout name="root">
+    <row>
+        <button type="tag" label="Arbol" icon="icon_1.png" />
+        <button type="tag" label="Banco" icon="icon_2.png" />
+        <button type="tag" label="Parada de buses" icon="icon_3.png" />
+    </row>
+    <row>
+        <button type="tag" label="Zona recreativa" icon="icon_4.png" />
+        <button type="tag" label="Cancha " icon="icon_5.png" />
+    </row>
+  </layout>
+</layouts>
