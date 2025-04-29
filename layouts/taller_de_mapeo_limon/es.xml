@@ -8,7 +8,7 @@
      </row>
     <row>
         <button type="tag" label="Basurero" icon="taller_de_mapeo_limon_icons/icon_6.png" tag="amenity=waste_basket"/>
-        <button type="tag" label="Arbol" icon="taller_de_mapeo_limon_icons/icon_1.png" tag="natural=tree" />
+        <button type="tag" label="Árbol" icon="taller_de_mapeo_limon_icons/icon_1.png" tag="natural=tree" />
         <button type="tag" label="Banco" icon="taller_de_mapeo_limon_icons/icon_2.png" tag="amenity=bench" />
     </row>
     <row>
