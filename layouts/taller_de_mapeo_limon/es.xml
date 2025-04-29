@@ -2,6 +2,11 @@
 <layouts>
   <layout name="root">
     <row>
+      <button type="voicerec" icon="voice_32x32"/>
+      <button type="picture" icon="camera_32x32"/>
+      <button type="textnote" icon="text_32x32"/>
+     </row>
+    <row>
         <button type="tag" label="Arbol" icon="icon_1.png" />
         <button type="tag" label="Banco" icon="icon_2.png" />
         <button type="tag" label="Parada de buses" icon="icon_3.png" />
